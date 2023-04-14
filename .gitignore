@@ -1,0 +1,12 @@
+# python virtual environment
+.venv
+
+# python cache
+__pycache__
+
+# data folder
+data/**
+!data/.gitkeep
+
+# model
+model.bin
